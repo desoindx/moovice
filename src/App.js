@@ -38,7 +38,7 @@ const App = () => {
                 </li>
                 <li class="nav-item">
                   <Link class="nav-link" to="/popular/1">
-                    Popular
+                    Popular movies
                   </Link>
                 </li>
                 <li class="nav-item">
